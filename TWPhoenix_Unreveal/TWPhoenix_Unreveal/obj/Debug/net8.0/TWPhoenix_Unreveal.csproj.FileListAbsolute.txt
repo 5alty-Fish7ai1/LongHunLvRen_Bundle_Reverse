@@ -1,0 +1,14 @@
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\bin\Debug\net8.0\TWPhoenix_Unreveal.exe
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\bin\Debug\net8.0\TWPhoenix_Unreveal.deps.json
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\bin\Debug\net8.0\TWPhoenix_Unreveal.runtimeconfig.json
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\bin\Debug\net8.0\TWPhoenix_Unreveal.dll
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\bin\Debug\net8.0\TWPhoenix_Unreveal.pdb
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\obj\Debug\net8.0\TWPhoenix_Unreveal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\obj\Debug\net8.0\TWPhoenix_Unreveal.AssemblyInfoInputs.cache
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\obj\Debug\net8.0\TWPhoenix_Unreveal.AssemblyInfo.cs
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\obj\Debug\net8.0\TWPhoenix_Unreveal.csproj.CoreCompileInputs.cache
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\obj\Debug\net8.0\TWPhoenix_Unreveal.dll
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\obj\Debug\net8.0\refint\TWPhoenix_Unreveal.dll
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\obj\Debug\net8.0\TWPhoenix_Unreveal.pdb
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\obj\Debug\net8.0\TWPhoenix_Unreveal.genruntimeconfig.cache
+C:\Users\yearNur\source\repos\TWPhoenix_Unreveal\TWPhoenix_Unreveal\obj\Debug\net8.0\ref\TWPhoenix_Unreveal.dll
